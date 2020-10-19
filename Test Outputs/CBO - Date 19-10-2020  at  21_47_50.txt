@@ -1,0 +1,63 @@
+
+File: res\CS409TestSystem2020\foxes-and-rabbits-graph\Animal.java
+CBO Metric: 1
+File: res\CS409TestSystem2020\foxes-and-rabbits-graph\Counter.java
+CBO Metric: 0
+File: res\CS409TestSystem2020\foxes-and-rabbits-graph\Field.java
+CBO Metric: 3
+File: res\CS409TestSystem2020\foxes-and-rabbits-graph\FieldStats.java
+CBO Metric: 3
+File: res\CS409TestSystem2020\foxes-and-rabbits-graph\Fox.java
+CBO Metric: 3
+File: res\CS409TestSystem2020\foxes-and-rabbits-graph\GraphView.java
+CBO Metric: 0
+File: res\CS409TestSystem2020\foxes-and-rabbits-graph\GridView.java
+CBO Metric: 2
+File: res\CS409TestSystem2020\foxes-and-rabbits-graph\Location.java
+CBO Metric: 0
+File: res\CS409TestSystem2020\foxes-and-rabbits-graph\Rabbit.java
+CBO Metric: 2
+File: res\CS409TestSystem2020\foxes-and-rabbits-graph\Randomizer.java
+CBO Metric: 0
+File: res\CS409TestSystem2020\foxes-and-rabbits-graph\Simulator.java
+CBO Metric: 3
+File: res\CS409TestSystem2020\foxes-and-rabbits-graph\SimulatorView.java
+CBO Metric: 0
+File: res\CS409TestSystem2020\taxi-company-later-stage\Actor.java
+CBO Metric: 0
+File: res\CS409TestSystem2020\taxi-company-later-stage\City.java
+CBO Metric: 0
+File: res\CS409TestSystem2020\taxi-company-later-stage\CityGUI.java
+CBO Metric: 4
+File: res\CS409TestSystem2020\taxi-company-later-stage\DrawableItem.java
+CBO Metric: 0
+File: res\CS409TestSystem2020\taxi-company-later-stage\Item.java
+CBO Metric: 0
+File: res\CS409TestSystem2020\taxi-company-later-stage\Location.java
+CBO Metric: 0
+File: res\CS409TestSystem2020\taxi-company-later-stage\MissingPassengerException.java
+CBO Metric: 0
+File: res\CS409TestSystem2020\taxi-company-later-stage\Passenger.java
+CBO Metric: 0
+File: res\CS409TestSystem2020\taxi-company-later-stage\PassengerSource.java
+CBO Metric: 1
+File: res\CS409TestSystem2020\taxi-company-later-stage\Shuttle.java
+CBO Metric: 1
+File: res\CS409TestSystem2020\taxi-company-later-stage\Simulation.java
+CBO Metric: 1
+File: res\CS409TestSystem2020\taxi-company-later-stage\Taxi.java
+CBO Metric: 1
+File: res\CS409TestSystem2020\taxi-company-later-stage\TaxiCompany.java
+CBO Metric: 3
+File: res\CS409TestSystem2020\taxi-company-later-stage\Vehicle.java
+CBO Metric: 0
+File: res\CS409TestSystem2020\weblog-analyzer\LogAnalyzer.java
+CBO Metric: 0
+File: res\CS409TestSystem2020\weblog-analyzer\LogEntry.java
+CBO Metric: 0
+File: res\CS409TestSystem2020\weblog-analyzer\LogfileCreator.java
+CBO Metric: 0
+File: res\CS409TestSystem2020\weblog-analyzer\LogfileReader.java
+CBO Metric: 0
+File: res\CS409TestSystem2020\weblog-analyzer\LoglineTokenizer.java
+CBO Metric: 0
